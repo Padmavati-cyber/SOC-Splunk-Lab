@@ -19,7 +19,7 @@ detection analysis using SPL queries.
 - Security events over time
 
 ## Dashboard
-![SOC Overview Dashboard](Screenshot 2026-05-13 233834.png)
+![SOC Overview Dashboard](dashboard.png)
 
 ## Tools Used
 - Splunk Enterprise (Free)
